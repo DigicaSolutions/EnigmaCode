@@ -1,7 +1,8 @@
 [![Enigma Pattern Inc.](https://raw.githubusercontent.com/EnigmaPatternInc/EnigmaCode/master/Enigma_github.png)](http://www.enigmapattern.com)
 ## EnigmaCode
 
-This is the technical specification of our Breaking the Enigma Code project, you can read more about it [here comes the link].
+This is the technical specification of our Breaking the Enigma Code project, you can read more about it here: 
+[https://www.linkedin.com/pulse/how-we-cracked-enigma-code-using-artificial-lukasz-kuncewicz/](https://www.linkedin.com/pulse/how-we-cracked-enigma-code-using-artificial-lukasz-kuncewicz/).
 
 ## Tools we used
 
